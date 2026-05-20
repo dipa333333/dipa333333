@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+from+Indonesia;Laravel+%7C+React+%7C+Python;Cybersecurity+Enthusiast;AI+Explorer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer+from+Indonesia;Laravel+%7C+React+%7C+Python;Cybersecurity+Enthusiast;AI+Explorer;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center">
@@ -50,60 +50,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vue,php,laravel,python,flask,mysql,mongodb,sqlite,docker,git,github,vscode,linux&theme=dark" />
 
 </p>
-
----
-
-# 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 🏝 Bali Tourism Website
-Modern tourism website using Laravel with:
-- Admin Panel
-- Booking System
-- CRUD Management
-- Tailwind UI
-
-</td>
-
-<td width="50%">
-
-## 🍱 Depot BogaSari
-Catering website with:
-- Modern UI
-- Dark Mode
-- Flask Backend
-- SQLite Database
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🧠 AI Batik Recognition
-AI-powered batik information system:
-- Batik Detection
-- AI Integration
-- Modern Frontend
-- Image Processing
-
-</td>
-
-<td width="50%">
-
-## 🔐 Cyber Security Lab
-Learning cybersecurity through:
-- Wireshark
-- Cryptography
-- Ethical Hacking Simulation
-- Network Analysis
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -157,13 +103,6 @@ Learning cybersecurity through:
 
 ---
 
-# 🎧 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212"/>
-</p>
-
----
 
 # 👀 Profile Views
 
