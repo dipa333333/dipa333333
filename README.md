@@ -110,9 +110,9 @@ Learning cybersecurity through:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipa333333&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa333333&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipa333333&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa333333&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
