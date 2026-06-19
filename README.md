@@ -32,34 +32,6 @@
 
 ---
 
-### 📊 GitHub Insights
-*Klik untuk melihat statistik detail:*
-
-<details>
-  <summary><b>📈 Open Statistics (Stats, Streak, & Graph)</b></summary>
-  <br>
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipa333333&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa333333&layout=compact&theme=tokyonight&hide_border=true"/>
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=dipa333333&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipa333333&theme=tokyo-night&hide_border=true"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>🐍 Achievements & Fun Stuff</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/dipa333333/dipa333333/output/github-contribution-grid-snake-dark.svg"/>
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipa333333&theme=tokyonight&no-frame=true&row=1&column=7"/>
-  </p>
-</details>
 
 <br>
 
