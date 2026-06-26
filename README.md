@@ -10,11 +10,9 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🎓 IT Student at INSTIKI
-- 💻 Passionate Frontend Developer
+- 💻 Fullstack Developer
 - 🚀 Exploring Cloud, Deployment & AI
-- 🔥 Cybersecurity Enthusiast
-- ⚡ Tech Stack: Laravel, React, Python
-- 💬 Ask me about UI/UX, Web Dev, or IoT
+- 💬 Ask me about UI/UX, AI, Web & Mobile Dev, or IoT
 
 <br>
 
